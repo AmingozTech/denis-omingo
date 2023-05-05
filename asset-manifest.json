@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http//:AmingozTech..github.io/denis-omingo/static/css/main.073c9b0a.css",
+    "main.js": "/http//:AmingozTech..github.io/denis-omingo/static/js/main.e67b738f.js",
+    "static/js/787.10dd7a1c.chunk.js": "/http//:AmingozTech..github.io/denis-omingo/static/js/787.10dd7a1c.chunk.js",
+    "static/media/logo.svg": "/http//:AmingozTech..github.io/denis-omingo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/http//:AmingozTech..github.io/denis-omingo/index.html",
+    "main.073c9b0a.css.map": "/http//:AmingozTech..github.io/denis-omingo/static/css/main.073c9b0a.css.map",
+    "main.e67b738f.js.map": "/http//:AmingozTech..github.io/denis-omingo/static/js/main.e67b738f.js.map",
+    "787.10dd7a1c.chunk.js.map": "/http//:AmingozTech..github.io/denis-omingo/static/js/787.10dd7a1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e67b738f.js"
+  ]
+}
